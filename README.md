@@ -6,7 +6,7 @@ Self Taught Front End Developer
 
 I’m a self-taught Front-End Developer. My passion for animation and creating intuitive, dynamic user experience is something I am deeply passionate about. I am currently learning various technologies and working as a freelancer. My goal is to become a full-stack creative developer who specializes in3D experiences in the near future. As of right now, I am learning the basics of React technologies
 
-* 🌍  I'm based in Beni-Mellal City in Morocco
+* 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [my portfolio](http://portfolio-mu-blush-34.vercel.app/)
 * ✉️  You can contact me at [oussamaaitikhlf@gmail.com](mailto:oussamaaitikhlf@gmail.com)
 * 🤝  I'm open to collaborating on any front-end development related project
